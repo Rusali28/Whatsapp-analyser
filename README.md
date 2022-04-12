@@ -36,11 +36,15 @@ Our application is built over four modules. Below is the pictorial demonstration
 
 ### - Monthly Timeline
 #
-![Monthtime]()
+![Monthtime](https://github.com/Rusali28/Whatsapp-analyser/blob/main/Images/MonthlyTimelines.png)
 
 ### - Most frequently used Words using WordCloud
 #
 ![Wordcloud](https://github.com/Rusali28/Whatsapp-analyser/blob/main/Images/WordCloud.png)
+
+### - Emoji usage
+#
+![Emoji](https://github.com/Rusali28/Whatsapp-analyser/blob/main/Images/Emoji%20Anlaysis.png)
 
 
 ## Thank You!
