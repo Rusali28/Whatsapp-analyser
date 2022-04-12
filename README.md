@@ -26,6 +26,21 @@ Our application is built over four modules. Below is the pictorial demonstration
 #
 ![Uploading the dataset](https://github.com/Rusali28/Whatsapp-analyser/blob/main/Images/Top%20Statistics.png)
 
-###- Most active interaction 
+### - Most active interaction 
 #
 ![Busiest users](https://github.com/Rusali28/Whatsapp-analyser/blob/main/Images/Most%20Busy%20Users.png)
+
+### - Weekly interaction
+#
+![Weekly interaction](https://github.com/Rusali28/Whatsapp-analyser/blob/main/Images/WeeklyActivity.jpg)
+
+### - Monthly Timeline
+#
+![Monthtime]()
+
+### - Most frequently used Words using WordCloud
+#
+![Wordcloud](https://github.com/Rusali28/Whatsapp-analyser/blob/main/Images/WordCloud.png)
+
+
+## Thank You!
